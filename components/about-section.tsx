@@ -8,10 +8,11 @@ export function AboutSection() {
           <h2 className="text-4xl md:text-5xl font-serif font-bold mb-6 text-balance text-foreground">
             Welcome to Dru's Family Salon
           </h2>
-          <p className="text-lg text-muted-foreground leading-relaxed">
-            For over a decade, we've been dedicated to enhancing confidence through beauty and care. Our experienced
-            team of stylists and beauticians create personalized experiences that celebrate your unique beauty.
-          </p>
+         <p className="text-lg text-muted-foreground leading-relaxed">
+  Since 2020, we've been dedicated to enhancing confidence through beauty and care. 
+  Our skilled team of stylists and beauticians craft personalized experiences 
+  that celebrate your unique beauty and comfort.
+</p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
