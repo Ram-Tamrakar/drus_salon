@@ -66,7 +66,7 @@ export function AboutSection() {
             <div className="group">
               <div className="aspect-[3/4] rounded-2xl overflow-hidden mb-4 bg-muted border-2 border-primary/10">
                 <img
-                  src="/durga-singh.jpeg"
+                  src="/durga-singh.jfif"
                   alt="Durga Singh"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />

@@ -35,7 +35,7 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <Link href="#home" className="flex items-center">
-            <Image src="/logo.png" alt="Dru's Family Salon" width={200} height={60} className="h-14 w-auto" priority />
+            <Image src="/logo.png" alt="Dru's Family Salon" width={500} height={200} className="h-14 w-auto" priority />
           </Link>
 
           {/* Desktop Navigation */}
