@@ -58,7 +58,7 @@ export function HeroSection() {
               className="text-base px-8 border-primary text-primary hover:bg-primary hover:text-black bg-transparent"
               asChild
             >
-              <a href="tel:+1234567890">
+              <a href="mob:7045271980">
                 <Phone className="w-5 h-5 mr-2" />
                 Call Now
               </a>

@@ -59,8 +59,8 @@ export function AboutSection() {
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
-              <h4 className="font-serif font-semibold text-lg mb-1">Neeru Singh</h4>
-              <p className="text-sm text-muted-foreground">Founder</p>
+              <h4 className="font-serif font-semibold text-lg mb-1">Neeru Arora</h4>
+              <p className="text-sm text-muted-foreground">Founder and MD</p>
             </div>
 
             <div className="group">
@@ -72,7 +72,7 @@ export function AboutSection() {
                 />
               </div>
               <h4 className="font-serif font-semibold text-lg mb-1">Durga Singh</h4>
-              <p className="text-sm text-muted-foreground">Founder & Beautician Hair Specialist</p>
+              <p className="text-sm text-muted-foreground">Founder and hair Artist/Hair Specialist</p>
             </div>
           </div>
         </div>

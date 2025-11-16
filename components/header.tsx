@@ -59,7 +59,7 @@ export function Header() {
               className="border-primary text-primary hover:bg-primary hover:text-black bg-transparent"
               asChild
             >
-              <a href="tel:+1234567890">
+              <a href="mob:7045271980">
                 <Phone className="w-4 h-4 mr-2" />
                 Call Now
               </a>
@@ -101,7 +101,7 @@ export function Header() {
                 className="border-primary text-primary hover:bg-primary hover:text-black bg-transparent"
                 asChild
               >
-                <a href="tel:+1234567890">
+                <a href="mob:7045271980">
                   <Phone className="w-4 h-4 mr-2" />
                   Call Now
                 </a>

@@ -46,7 +46,7 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold mb-2">Phone</h3>
                     <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                      +1 (234) 567-8900
+                      7045271980
                     </a>
                   </div>
                 </div>
@@ -93,12 +93,12 @@ export function ContactSection() {
             {/* Social Media */}
             <div className="flex gap-4">
               <Button variant="outline" size="icon" className="rounded-full bg-transparent" asChild>
-                <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+                <a href="https://www.facebook.com/drusfamilysalon/ " target="_blank" rel="noopener noreferrer" aria-label="Facebook">
                   <Facebook className="w-5 h-5" />
                 </a>
               </Button>
               <Button variant="outline" size="icon" className="rounded-full bg-transparent" asChild>
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+                <a href="https://www.instagram.com/drusfamilysalon/?hl=en" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
                   <Instagram className="w-5 h-5" />
                 </a>
               </Button>

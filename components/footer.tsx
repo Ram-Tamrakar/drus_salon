@@ -15,7 +15,7 @@ export function Footer() {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/drusfamilysalon/ "
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center hover:bg-primary/30 transition-colors"
@@ -24,7 +24,7 @@ export function Footer() {
                 <Facebook className="w-5 h-5 text-primary" />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/drusfamilysalon/?hl=en"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-primary/20 flex items-center justify-center hover:bg-primary/30 transition-colors"
@@ -85,8 +85,8 @@ export function Footer() {
               <li>Ramachandra Nagar</li>
               <li>Mumbai, Maharashtra 400604</li>
               <li>
-                <a href="tel:+1234567890" className="hover:text-primary transition-colors">
-                  +1 (234) 567-8900
+                <a href="mob:7045271980" className="hover:text-primary transition-colors">
+                  7045271980
                 </a>
               </li>
               <li>
